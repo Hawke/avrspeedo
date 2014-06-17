@@ -1,0 +1,17 @@
+Chip: ATtiny26-16pu
+
+pin 4: button input
+pin 7: hundreds 1
+pin 8: hundreds 2
+pin 9: pulse input
+pin 20: 1s bit 1
+pin 19: 1s bit 2
+pin 18: 1s bit 3
+pin 17: 1s bit 4
+pin 14: 10s bit 1
+pin 13: 10s bit 2
+pin 12: 10s bit 3
+pin 11: 10s bit 4
+
+0010 0000
+0000 0110
